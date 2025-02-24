@@ -1,4 +1,5 @@
 # apnacollage-demo
 This is my first Git Repository.
 <br>
-Author - Gyan Prakash 
+Author - Gyan Prakash(ramlal)
+ 
